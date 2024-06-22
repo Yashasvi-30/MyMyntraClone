@@ -1,4 +1,4 @@
-Sure, here's a basic README.md file for your "My Myntra Clone" repository:
+
 
 ---
 
